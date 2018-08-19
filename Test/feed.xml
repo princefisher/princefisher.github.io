@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:FDD70373-9CDA-4503-B070-99F20AF78699</id>
+ <title>Page list Atom feed</title>
+ <updated>2018-08-18T18:21:20-07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:F23ECCD8-ED0B-4929-A0A3-7E39DD11EC17</id>
+  <title>light</title>
+  <title xmlns="urn:iweb:">light</title>
+  <in-navbar xmlns="urn:iweb:">F23ECCD8-ED0B-4929-A0A3-7E39DD11EC17</in-navbar>
+  <link rel="alternate" href="light.html"/>
+  <updated>2018-08-18T18:21:20.001-07:00</updated>
+  <content>light</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D364DEA2-36E8-4D45-842E-5C476A9240B4</id>
+  <title>medium</title>
+  <title xmlns="urn:iweb:">medium</title>
+  <in-navbar xmlns="urn:iweb:">D364DEA2-36E8-4D45-842E-5C476A9240B4</in-navbar>
+  <link rel="alternate" href="medium.html"/>
+  <updated>2018-08-18T18:21:20.002-07:00</updated>
+  <content>medium</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C6602B5F-7E1E-4D1D-8009-9E256364E857</id>
+  <title>dark</title>
+  <title xmlns="urn:iweb:">dark</title>
+  <in-navbar xmlns="urn:iweb:">C6602B5F-7E1E-4D1D-8009-9E256364E857</in-navbar>
+  <link rel="alternate" href="dark.html"/>
+  <updated>2018-08-18T18:21:20.003-07:00</updated>
+  <content>dark</content>
+ </entry>
+</feed>
